@@ -2,7 +2,7 @@
 window.routerBase = 'https://hd.fastss.de/'
 window.settings = {
   // 站点名称
-  title: 'Fast Shadowsocks',
+  title: 'Fastss',
   // 站点描述
   description: 'Provide faster and safer Internet proxy services!',
   assets_path: '/assets',
