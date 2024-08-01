@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: 'https://fastss.de/bj.jpg',
+  background_url: 'https://pic.yun316.com/file/938b48f7f84a4d901f66b.jpg',
   // 站点LOGO
-  logo: 'https://fastss.de/logo.jpg',
+  logo: 'https://image.196629.xyz/file/ab12889d44ba1da90f42d.jpg',
 }
