@@ -19,7 +19,7 @@
     },
     {
       "label": "背景",
-      "placeholder": "请输入背景图片URL",
+      "placeholder": "https://pic.yun316.com/file/938b48f7f84a4d901f66b.jpg",
       "field_name": "background_url",
       "field_type": "input"
     },
