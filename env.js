@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://hd.fastss.de/'
+window.routerBase = 'https://admin.fastss.de/'
 window.settings = {
   // 站点名称
   title: 'Fastss',
