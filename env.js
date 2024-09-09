@@ -1,8 +1,8 @@
 // API地址
-window.routerBase = 'https://admin.fastss.de/'
+window.routerBase = 'https://houduan.fastss.de/'
 window.settings = {
   // 站点名称
-  title: 'Fastss',
+  title: '养鸡场加速器',
   // 站点描述
   description: 'Provide faster and safer Internet proxy services!',
   assets_path: '/assets',
