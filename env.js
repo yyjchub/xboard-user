@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: 'https://img.fastss.de/beijing.jpg',
+  background_url: 'https://www.yangjichang.com/assets/images/beijing.jpg',
   // 站点LOGO
-  logo: 'https://img.fastss.de/logo.jpg',
+  logo: 'https://www.yangjichang.com/assets/images/yjclogo.png',
 }
