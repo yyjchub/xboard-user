@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: '养鸡场加速器',
   // 站点描述
-  description: 'Provide faster and safer Internet proxy services!',
+  description: '旧面板数据正在恢复中.....请稍后!着急可发工单申请立刻恢复',
   assets_path: '/assets',
   // 主题色
   theme: {
